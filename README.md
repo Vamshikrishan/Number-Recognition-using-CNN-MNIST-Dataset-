@@ -23,11 +23,13 @@ DL_project/
         └── final_mnist_cnn.h5       # Trained CNN model (saved weights)
     
 **⚙️ Requirements**
+
 You don’t need to install dependencies if using manually **Google Colab**, since it already has most libraries preinstalled.
 If you want to run locally, install the following:
   pip install tensorflow keras matplotlib numpy pandas
 
 **▶️ How to Run (Google Colab)**
+
 1. Upload the project folder to your **Google Drive.**
    - Place the folder in your Drive root for easier access.
 2. Open **Google Colab:**
