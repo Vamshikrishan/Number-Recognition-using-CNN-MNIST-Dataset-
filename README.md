@@ -1,4 +1,4 @@
-**📘 Number Recognition using CNN (MNIST Dataset)**
+> **📘 Number Recognition using CNN (MNIST Dataset)**
 
 **📖 Overview**
 
