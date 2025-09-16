@@ -13,9 +13,13 @@ The project is built as a **Jupyter Notebook (number_recognition.ipynb)** and is
 **📂 Project Structure**
 
 DL_project/
+
   └── DL_project/
+  
         ├── kaggle.json              # Kaggle API credentials (optional, if using Kaggle datasets)
+        
         ├── number_recognition.ipynb # Main notebook (code, training, evaluation)
+        
         └── final_mnist_cnn.h5       # Trained CNN model (saved weights)
     
 **⚙️ Requirements**
