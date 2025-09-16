@@ -1,5 +1,7 @@
 **📘 Number Recognition using CNN (MNIST Dataset)**
+
 **📖 Overview**
+
 This project demonstrates a **Deep Learning model (Convolutional Neural Network - CNN)** for recognizing handwritten digits (0–9) from the **MNIST dataset.**
 The workflow includes:
 -Importing & preprocessing the dataset
@@ -9,6 +11,7 @@ The workflow includes:
 The project is built as a **Jupyter Notebook (number_recognition.ipynb)** and is designed to run seamlessly in **Google Colab.**
 
 **📂 Project Structure**
+
 DL_project/
   └── DL_project/
         ├── kaggle.json              # Kaggle API credentials (optional, if using Kaggle datasets)
